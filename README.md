@@ -4,9 +4,7 @@ A simple blog app that performs CRUD operations using Django with MySQL.
 
 ## Instructions
 
-The following instructions are for running the app in Debug mode, based on the included settings.py file.
-
-The app was tested on Ubuntu 18.04 using Python 3.6.7.
+The following instructions were tested using Ubuntu 18.04 using Python 3.6.7. 
 
 ### Initial Requirements
 
