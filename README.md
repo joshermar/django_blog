@@ -1,6 +1,6 @@
 # Django Simple Blog App
 
-A blog web app that demonstrates CRUD operations using Django with MySQL.
+A blog web app that implements CRUD operations using Django with MySQL.
 
 ## Instructions
 
