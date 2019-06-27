@@ -1,6 +1,6 @@
 # Django Blog
 
-A complete microblog web app that implements CRUD operations using Django with MySQL
+A complete microblog web app that implements CRUD operations using Django with MySQL.
 
 ## Instructions
 
